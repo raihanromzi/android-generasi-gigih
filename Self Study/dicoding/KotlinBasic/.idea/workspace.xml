@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a824747-3dba-4e72-b2da-8b73c134627b" name="Changes" comment="finish kotlin fundamental">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionalProgramming.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinStandardLibrary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lambda.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +50,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CollectionKt">
+  <component name="RunManager" selected="Kotlin.KotlinStandardLibraryKt">
     <configuration name="CollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionKt" />
       <module name="KotlinBasic" />
@@ -54,29 +58,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
+    <configuration name="FunctionalProgrammingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgrammingKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopKt" />
+    <configuration name="HigherOrderFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HigherOrderFunctionKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangeKt" />
+    <configuration name="KotlinStandardLibraryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinStandardLibraryKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KotlinStandardLibraryKt" />
+        <item itemvalue="Kotlin.HigherOrderFunctionKt" />
+        <item itemvalue="Kotlin.LambdaKt" />
+        <item itemvalue="Kotlin.FunctionalProgrammingKt" />
         <item itemvalue="Kotlin.CollectionKt" />
-        <item itemvalue="Kotlin.DataClassKt" />
-        <item itemvalue="Kotlin.LoopKt" />
-        <item itemvalue="Kotlin.RangeKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688468174059</updated>
-      <workItem from="1688468175127" duration="19968000" />
+      <workItem from="1688468175127" duration="28877000" />
     </task>
     <task id="LOCAL-00001" summary="finish kotlin fundamental">
       <option name="closed" value="true" />
