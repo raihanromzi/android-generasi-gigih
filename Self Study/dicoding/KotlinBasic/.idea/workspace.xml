@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a824747-3dba-4e72-b2da-8b73c134627b" name="Changes" comment="finish kotlin fundamental" />
+    <list default="true" id="4a824747-3dba-4e72-b2da-8b73c134627b" name="Changes" comment="finish kotlin fundamental">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Enum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExpressionStatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="2S6XnoKhuK1g6583hLAfEtIZYkL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,30 +51,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StringKt">
-    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
+  <component name="RunManager" selected="Kotlin.LoopKt">
+    <configuration name="EnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalKt" />
+    <configuration name="LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullableKt" />
-      <module name="KotlinBasic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersKt" />
+    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangeKt" />
       <module name="KotlinBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+      <module name="KotlinBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LoopKt" />
+        <item itemvalue="Kotlin.RangeKt" />
+        <item itemvalue="Kotlin.WhenKt" />
+        <item itemvalue="Kotlin.EnumKt" />
         <item itemvalue="Kotlin.StringKt" />
-        <item itemvalue="Kotlin.NullableKt" />
-        <item itemvalue="Kotlin.NumbersKt" />
-        <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.ConditionalKt" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688468174059</updated>
-      <workItem from="1688468175127" duration="6998000" />
+      <workItem from="1688468175127" duration="14552000" />
     </task>
     <task id="LOCAL-00001" summary="finish kotlin fundamental">
       <option name="closed" value="true" />
