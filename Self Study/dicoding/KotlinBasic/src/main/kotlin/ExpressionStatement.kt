@@ -8,6 +8,7 @@ fun main() {
         print("Office close")
 
     // Expression -> Returning value
+    // because it returning value -> can assign to variable
     val office = if (now > openOffice) "Office already open" else "Office close" // if as expression
     print(office)
 }
