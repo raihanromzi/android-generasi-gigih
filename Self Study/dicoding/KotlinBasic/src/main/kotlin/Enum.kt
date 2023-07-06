@@ -11,7 +11,7 @@ fun main() {
     colors.forEach { color: Color -> println("$color") }
 
     // valueOf()
-    // can caused IllegalArgumentException -> argument in valueOf() not match in enum
+    // can cause IllegalArgumentException -> argument in valueOf() not match in enum
     val color: Color = Color.valueOf("RED")
     println("Color is $color")
 
