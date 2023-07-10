@@ -28,6 +28,7 @@ fun main() {
     // Ordinal -> Get index
     println("${color.ordinal}")
 
+
     // Can use when to check all instance of enum
     // Better input all the enum, if not can cause error "'when' expression on enum is recommended to be exhaustive"
 }
